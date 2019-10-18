@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98332ee6-bc70-468f-a124-2d89276499ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hotfix" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1571365872863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="项目新建成功">
+      <created>1571367508962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571367508962</updated>
+    </task>
+    <task id="LOCAL-00003" summary="打了个补丁">
+      <created>1571367583776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571367583776</updated>
+    </task>
+    <task id="LOCAL-00004" summary="获取补丁，完整版本发布">
+      <created>1571367696417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571367696417</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +119,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master" />
-    <option name="LAST_COMMIT_MESSAGE" value="master" />
+    <MESSAGE value="项目新建成功" />
+    <MESSAGE value="打了个补丁" />
+    <MESSAGE value="获取补丁，完整版本发布" />
+    <option name="LAST_COMMIT_MESSAGE" value="获取补丁，完整版本发布" />
   </component>
 </project>
